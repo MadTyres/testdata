@@ -5,7 +5,7 @@ import (
 	"math/rand/v2"
 	"testing"
 
-	"github.com/MadTyres/testdata"
+	"github.com/madtyres/testdata"
 )
 
 func ExampleMakeWith() {

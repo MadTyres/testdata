@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/MadTyres/testdata/internal/generate"
+	"github.com/madtyres/testdata/internal/generate"
 )
 
 type testingT interface {

@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/MadTyres/testdata/internal/generate"
-	"github.com/MadTyres/testdata/internal/sticky"
+	"github.com/madtyres/testdata/internal/generate"
+	"github.com/madtyres/testdata/internal/sticky"
 )
 
 // DefaultConfig is the Config that will be used with Make and MakeSticky.

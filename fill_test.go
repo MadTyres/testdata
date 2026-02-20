@@ -3,8 +3,8 @@ package testdata_test
 import (
 	"testing"
 
-	"github.com/MadTyres/testdata"
-	"github.com/MadTyres/testdata/internal/assert"
+	"github.com/madtyres/testdata"
+	"github.com/madtyres/testdata/internal/assert"
 )
 
 func TestFillWith(t *testing.T) {
