@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/kyuff/testdata"
-	"github.com/kyuff/testdata/internal/assert"
+	"github.com/MadTyres/testdata"
+	"github.com/MadTyres/testdata/internal/assert"
 )
 
 func TestMake(t *testing.T) {
